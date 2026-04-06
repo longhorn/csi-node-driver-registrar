@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/kubernetes-csi/csi-lib-utils v0.23.2
 	golang.org/x/sys v0.42.0
-	google.golang.org/grpc v1.79.3
+	google.golang.org/grpc v1.80.0
 	k8s.io/client-go v0.35.0
 	k8s.io/component-base v0.35.0
 	k8s.io/klog/v2 v2.130.1
@@ -55,9 +55,9 @@ require (
 	github.com/x448/float16 v0.8.4 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.67.0 // indirect
-	go.opentelemetry.io/otel v1.42.0 // indirect
-	go.opentelemetry.io/otel/metric v1.42.0 // indirect
-	go.opentelemetry.io/otel/trace v1.42.0 // indirect
+	go.opentelemetry.io/otel v1.43.0 // indirect
+	go.opentelemetry.io/otel/metric v1.43.0 // indirect
+	go.opentelemetry.io/otel/trace v1.43.0 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.1 // indirect
