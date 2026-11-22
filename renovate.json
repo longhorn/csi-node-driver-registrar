@@ -1,0 +1,3 @@
+{
+  "extends": ["github>longhorn/release:renovate-csi/csi-node-driver-registrar"]
+}
